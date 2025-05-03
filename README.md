@@ -26,6 +26,12 @@ Open http://localhost:3000/ with your browser to see the result.
 
 ## Detail
 
+**Difficulty**: Easy
+
+**Skills and technologies used**: REST API design, JSON, basic authentication middleware.
+
+![todo-list-api](https://assets.roadmap.sh/guest/todo-list-api-bsrdd.png)
+
 We’re continuing with the APIs for our backend project ideas, this time around for a To-Do application. Why is it different from the previous one?
 
 While the previous project only focused on the main CRUD operations, here we’ll add some more interesting responsibilities, such as:
